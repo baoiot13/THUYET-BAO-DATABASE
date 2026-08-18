@@ -1,6 +1,8 @@
-{
+const ALBUMS = {
+  "test": {
     "1": "https://drive.google.com/drive/folders/1pnNFMNKzt5PRKW52ro3CDIWb4w-CiZHZ",
     "2": "https://drive.google.com/drive/folders/12zqd07htDJStYq-j8syt13j-x53v2sjQ",
     "23.5": "https://drive.google.com/drive/folders/1MPweDnAG-9KdbVd1OMHpyKNdXqQzePA8",
     "uuu": "https://drive.google.com/drive/folders/1RyB8TavNGaMghWSV45_Koc0LOWdSaTrR"
-}
+  }
+};
